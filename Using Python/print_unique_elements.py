@@ -19,3 +19,11 @@ print("Unique Elements: ", end="")
 for i in range(len(unique_element_list)):
     print(unique_element_list[i], end="")
 
+
+    
+```
+OUTPUT:
+Enter the length of string: 5
+Enter the string of length 5: aabbc
+Unique Elements: abc
+```
