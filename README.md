@@ -1,4 +1,4 @@
-[![Licence](https://img.shields.io/github/license/bishtanuj/stringManipulation?style=for-the-badge)](./LICENSE)[![Issues](https://img.shields.io/github/issues/bishtanuj/stringManipulation?style=for-the-badge)](./ISSUES)
+[![Licence](https://img.shields.io/github/license/bishtanuj/stringManipulation?style=for-the-badge)](./LICENSE) &emsp; [![Issues](https://img.shields.io/github/issues/bishtanuj/stringManipulation?style=for-the-badge)](./ISSUES)
 
 # String Manipulation
 This repository contains manipulations with strings <br> 
