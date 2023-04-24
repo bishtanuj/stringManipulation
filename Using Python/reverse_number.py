@@ -36,4 +36,8 @@ if __name__ == "__main__":
 OUTPUT 1:
 Enter a number: 5124
 Reverse Number: 4215
+
+OUTPUT 2:
+Enter a number: -36978
+Reverse Number: -87963
 ```
