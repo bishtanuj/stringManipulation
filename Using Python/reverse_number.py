@@ -31,3 +31,9 @@ if __name__ == "__main__":
     # print the reverse of the number
     print(f"Reverse Number: {reverse_number(number)}")
 
+
+```
+OUTPUT 1:
+Enter a number: 5124
+Reverse Number: 4215
+```
